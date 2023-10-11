@@ -1,0 +1,45 @@
+table,th,td{
+    border: 1px solid black;
+    width: 1199px;
+    font-size: xx-large;
+    border-radius: 15px; 
+    text-align: center;
+}
+th{
+    background-color: rgb(247, 129, 12);color: rgb(253, 251, 250);
+}
+
+tr:hover {
+    background-color: rgb(247, 129, 12);color: rgb(253, 251, 250);
+    transition: 1s;
+}
+button{
+   border-radius: 20px;
+   width: 200px;
+   height: 70px;
+   border-color: green;
+
+
+}
+button:hover{
+    background-color: green;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-weight: bolder;
+    transition: 1s;
+    width: 400px;
+    height: 100px;
+}
+a{
+    color:black;
+    text-align: center;
+}
+a:hover{
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: tomato;
+    text-decoration: none;
+    transition: 0.1s;
+    font-style: italic;
+   
+}
