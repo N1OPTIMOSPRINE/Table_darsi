@@ -9,7 +9,7 @@ th{
     background-color: rgb(247, 129, 12);color: rgb(253, 251, 250);
 }
 
-tr:hover {
+td:hover {
     background-color: rgb(247, 129, 12);color: rgb(253, 251, 250);
     transition: 1s;
 }
